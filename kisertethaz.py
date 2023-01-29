@@ -19,3 +19,6 @@ while bator_vagyok:
         pontszam = pontszam + 1
 print('Menekülj!')
 print('Vége a játéknak! Az elért pontszám: ', pontszam)
+
+
+#KYS
